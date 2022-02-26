@@ -123,7 +123,7 @@ function Category() {
           )}
         </>
       ) : (
-        <p>No listings for {params.categoryName}</p>
+        <p>Currently no listings for {params.categoryName}</p>
       )}
     </div>
   );
