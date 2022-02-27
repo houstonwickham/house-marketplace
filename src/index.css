@@ -296,11 +296,10 @@ button {
   margin-bottom: 3rem;
 }
 
-@media (min-width: 1217px) {
-  .explore {
-    margin-bottom: 10rem;
-  }
+.explore {
+  margin-bottom: 10rem;
 }
+
 @media (max-height: 536) {
   .explore {
     margin-bottom: 10rem;
