@@ -297,12 +297,17 @@ button {
 }
 
 .explore {
-  margin-bottom: 10rem;
+  margin-bottom: 85px;
 }
 
+@media (min-width: 1217px) {
+  .explore {
+    margin-bottom: 85px;
+  }
+}
 @media (max-height: 536) {
   .explore {
-    margin-bottom: 10rem;
+    margin-bottom: 85px;
   }
 }
 
